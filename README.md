@@ -2,13 +2,13 @@
 A Text based version of UNO game  
   
 ### Initial Setup:   
-         2 - 4 players game  
-         Total cards = 108 : 4 suits [blue, green, yellow, red]  
-         1card  - 0 index for each suit  
-         2cards each  - 1-9 & skip , reverse, draw 2   
-         4 cards each - wild & wild draw 4  
-         Each player will get a hand of 7 cards  
-         Random player is sleected from players list to play first turn  
+       1. Maximum 4 players game 
+       2. Total 108 cards: 4 suits [blue, green, yellow, red]  
+       3. 1card  - 0 index card for each suit  
+       4. 2cards each  - 1-9 index, skip, reverse, draw 2   
+       5. 4 cards each - wild & wild draw 4  
+       6. Each player will get a hand of 7 cards  
+       7. Random player is sleected from players list to play first turn  
                  
 ### Rules:   
        1. You must play a valid card either of same number or same color or wild card  
